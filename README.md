@@ -6,10 +6,16 @@ Gögn takin frá [extensions.libreoffice.org](https://extensions.libreoffice.org
 
 ## Setja upp
 Afritið `is.utf-8.spl` að einn af þessum stöðum:
-* Vim
-** Notanda: `~/.vim/spell/`
-** Kerfi: `/usr/share/vim82/spell/`
-* Neovim
-** Notanda: `~/.config/nvim/spell/`
-** Kerfi: `/usr/share/nvim/runtime/spell/`
+
+### Vim
+
+Notanda: `~/.vim/spell/`
+
+Kerfi: `/usr/share/vim82/spell/`
+
+### Neovim
+
+Notanda: `~/.config/nvim/spell/`
+
+Kerfi: `/usr/share/nvim/runtime/spell/`
 
